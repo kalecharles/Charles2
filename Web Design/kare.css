@@ -1,0 +1,6 @@
+*{
+	background: url(htmlimage.jpg);
+}
+.bg-img{
+	background-image: url(htmlimage.jpg);
+}
